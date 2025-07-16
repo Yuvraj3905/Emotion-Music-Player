@@ -2,7 +2,7 @@
 
 A revolutionary music player that suggests songs based on your current emotion, detected through your webcam using facial recognition technology. Built with React, TypeScript, and face-api.js.
 
-![Emotion Music Player Demo](https://via.placeholder.com/800x400?text=Emotion+Music+Player+Demo)
+![Emotion Music Player Demo](https://emotion-music-player-red.vercel.app/)
 
 ## ✨ Features
 
